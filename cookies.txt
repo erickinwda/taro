@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+taro-enchanted-flow.lovable.app	TRUE	/	FALSE	1999999999	__cf_bm	50kxmyeqmyWm6.xrgiREbfYbaGcD1a.n7s_onwjg2AA-1790412672.8524456-1.0.1.1-sMDTE2rcaJhwKRlUurGtAdrbpNtr9BEymOko2ZWK_q2hnbBCvaR_kzEtvqent9Q3kAd3YmjdJ3bvTWYcY_RH66inCo6ga6KSrUSqZIvK7zTkzhPiHhZ8Z13y8PY_qmC0
+lovable.app	TRUE	/	FALSE	1999999999	SameSite	None
+
